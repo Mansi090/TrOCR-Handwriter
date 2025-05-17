@@ -119,15 +119,11 @@ Over three days, I tackled several hurdles:
 - Incorporate additional datasets (e.g., Imgur5K) for generalization.
 - Optimize preprocessing with advanced augmentation techniques.
 
-## Deliverables
-- **Code**: `fine_tune_trocr_gpu.py`
-- **Model**: `/kaggle/working/fine_tuned_trocr_epoch_5` (available in Kaggle output)
-- **Report**: `Mansi_Dixit_OCR_Report.tex` (compile to PDF)
 
 ## Acknowledgments
 This project was built for an OCR assignment, showcasing skills in deep learning, computer vision, and problem-solving. Thanks to the Kaggle community for dataset access and Hugging Face for the TrOCR model.
 
 ## Contact
 Feel free to reach out for questions or collaboration:
-- GitHub: [your-username](https://github.com/mansi090)
+- GitHub: [Mansi090](https://github.com/mansi090)
 - Email: [mansid875@gmail.com]
