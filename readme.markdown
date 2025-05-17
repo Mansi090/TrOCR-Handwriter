@@ -129,5 +129,5 @@ This project was built for an OCR assignment, showcasing skills in deep learning
 
 ## Contact
 Feel free to reach out for questions or collaboration:
-- GitHub: [your-username](https://github.com/your-username)
-- Email: [your-email]
+- GitHub: [your-username](https://github.com/mansi090)
+- Email: [mansid875@gmail.com]
